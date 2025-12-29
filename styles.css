@@ -1,6 +1,6 @@
 /* Example fixes. Make sure the font is available (see notes below). */
 body {
-  background: linear-gradient(to right, blue, aliceblue);
+  background: purple
   font-family: "Coral Pixels", serif;
 }
 
