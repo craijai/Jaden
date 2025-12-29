@@ -1,10 +1,13 @@
-body{
-  background: linear gradient(to right, blue, aliceblue)
-  font-family: Coral Pixels
+/* Example fixes. Make sure the font is available (see notes below). */
+body {
+  background: linear-gradient(to right, blue, aliceblue);
+  font-family: "Coral Pixels", serif;
 }
-h1{
-  text-position: center
+
+h1 {
+  text-align: center;
 }
+
 .coral-pixels-regular {
   font-family: "Coral Pixels", serif;
   font-weight: 400;
