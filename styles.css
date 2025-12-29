@@ -1,6 +1,6 @@
 /* Example fixes. Make sure the font is available (see notes below). */
 body {
-  background: purple
+  background: purple;
   font-family: "Coral Pixels", serif;
 }
 
